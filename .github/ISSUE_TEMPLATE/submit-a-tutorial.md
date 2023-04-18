@@ -16,10 +16,10 @@ Please use this template to elaborate on your idea and our team will reach out t
 
 ## My tutorial idea
 
-Use this section to give a description of what your tutorial is about.
+Description of the tutorial....
 
 - Title:
-- Who is this tutorial for:
+- for whom is this tutorial..
 
 Please select or describe the audience your proposal targets in terms of
 readers' familiarity with QuestDB:
